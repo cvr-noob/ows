@@ -7,7 +7,7 @@ go build .
 ```
 ### Run:
 ```sh
-./ollama-web-service
+./ollama-web-server
 ```
 
 ## Run without building
